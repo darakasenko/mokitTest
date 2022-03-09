@@ -5,13 +5,11 @@
 git status - проверка инициализации рабочей папки
 git init - инициализация папки для работы с Git
 
+git add имяФайла - добавление файла для работы с Git
+git add . - добавление всех файлов для работы с Git
+git add -m "комментарий" - добавление commit в Git
 
-
-
-
-
-
-
-
+git config --global user.name "Ваш логин"
+git config --global user.email "Ваша почта"
 
 README.md - Описание проекта 
